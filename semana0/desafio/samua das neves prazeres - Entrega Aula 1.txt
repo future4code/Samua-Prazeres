@@ -1,0 +1,251 @@
+  
+  159  cd ./downloads
+  160  cd assassinato-na-linha-de-comando
+  161  cat inicio
+  162  cat inicio.txt
+  163  cd./downloads
+  164  cd./download
+  165  cd downloads
+  166  ]cd /c/Users/55919/Downloads/assassinato-na-linha-de-comando/assassinato-na-linha-de-comandcd
+  167  reset
+  168  cd assassinato-na-linha-de-comando
+  169  cat inicio
+  170  Function Key 11
+  171  cd misterio
+  172  cat cena-do-crime
+  173  meldels ]como eu vim parar aqui eu so tenho seis anos
+  174  grep pistas
+  175  cd downloads
+  176  ls
+  177  reset
+  178  cd downloads
+  179  cd assassinato-na-linha-de-comando
+  180  cat inicio
+  181  cat cena-do-crime
+  182  cd misterio
+  183  cat cena-do-crime
+  184  grip pista
+  185  grip Pistas
+  186  grip PISTA
+  187  grep pista
+  188  grep pista
+  189  clear
+  190  cat inicio
+  191  cd downloads
+  192  cd assassinato-na-linha-de-comando
+  193  cat inicio
+  194  cd misterio
+  195  cat cena-do-crima
+  196  cat cena-do-crime
+  197  grep pistas
+  198  grep PISTA
+  199  grep PISTAS
+  200  grep passado
+  201  grep ./PISTA
+  202  cd downloads
+  203  cd assassinato-na-linha-de-comando
+  204  cat inicio
+  205  cd misterio
+  206  cat cena-do-crime
+  207  grep PISTA
+  208  grep -n PISTA
+  209  head -20
+  210  head -20
+  211  cd downloads
+  212  cd assassinato-na-linha-de-comando
+  213  cat inicio
+  214  cd misterio
+  215  catcena-do-crime
+  216  cat cena-do-crime
+  217  grep PISTA
+  218  cd associacoes
+  219  cat AAA
+  220  grep
+  221  grep PISTA
+  222  head -20
+  223  cat pessoas
+  224  cd ..
+  225  cat pessoas
+  226  head -n 20
+  227  head -n 20 pessoas 
+  228  grep Annabel
+  229  grep pista
+  230  cd downloads
+  231  cd assassinato-na-linha-de-comando
+  232  cat inicio
+  233  cd misterio
+  234  cat cena-do-crime
+  235  grep "PISTA"
+  236  grep PISTA ./cena-do-crime.txt
+  237  grep PISTA ./cena-do-crime
+  238  cat pessoas
+  239  grep Annabel ./pessoas
+  240  grep PISTA ./cena-do-crime
+  241  grep Annabel ./cena-do-crime
+  242  grep Annabel ./pessoas
+  243  head ./pessoas
+  244  cd ruas
+  245  ls
+  246  grep ruas ./ vila_heart
+  247  grep ruas ./Vila_Hart
+  248  cat Vila_Hart
+  249  head -n 40 ./Vila_Hart
+  250  cd..
+  251  cd ..
+  252  ls
+  253  cd entrevistas
+  254  cat entrevista-47246024
+  255  ce ..
+  256  cd ..
+  257  ruas
+  258  cd ruas
+  259  ls
+  260  cat Rua_Mattapan
+  261  head -n 173 ./Rua_Mattapan
+  262  cd ..
+  263  cat cd entrevistas ./ entrevista-9437737
+  264  cd entrevistas
+  265  cat entrevista-9437737
+  266  grep CLUE ./cena-do-crime
+  267  cd ..
+  268  $ grep CLUE ./cena-do-crime
+  269  grep CLUE ./ cena-do-crime
+  270  grep CLUE ./cena-do-crime
+  271  grep Annabel ./cena-do-crime
+  272  grep Annabel ./pessoas
+  273  cd ruas
+  274  cat Vila_Buckingham
+  275  head -n 179 Vila_Buckingham
+  276  cd ..
+  277  cd entrevistas
+  278  cat entrevista-699607
+  279  cd ..
+  280  ls
+  281  cd automoveis
+  282  cd automoveis
+  283  cat automoveis
+  284  grep Honda azul ./automoveis
+  285  grep L337 ./automoveis
+  286  grep L337ZR9 ./automoveis
+  287  grep Honda_Azul ./automoveis
+  288  grep Honda_azul ./automoveis
+  289  grep suspeito ./cena-do-crime
+  290  grep 1,83m ./automoveis
+  291  grep Altura:1,83m ./automoveis
+  292  grep Altura: 1,83 m ./automoveis
+  293  grep 1,83 ./automoveis
+  294  Placa TEBJK3X
+  295  Marca: Volvo
+  296  Cor: Branca
+  297  Proprietário: Mary Ogar
+  298  Altura: 1,68 m
+  299  Peso: 103,4 kg
+  300  grep grep "Honda" automoveis
+  301   grep "Azul" automoveis
+  302  grep 'Honda azul'./automoveis
+  303  head Placa L337ZR9 ./automoveis
+  304  grep L337ZR9 ./automoveis
+  305  grep L337 ./automoveis
+  306  head L337P89 ./automoveis
+  307  head L337GX9 ./automoveis
+  308  head L337WR9 ./automoveis
+  309  head L3375A9 ./automoveis
+  310  grep L337WR9 ./automoveis
+  311  head ./automoveis
+  312  head -n 50 ./automoveis
+  313  grep azul ./automoveis
+  314  grep Azul ./automoveis
+  315  grep Marca: Volkswagen
+  316  Cor: Prata
+  317  grep Marca: Honda Cor:Azul Placa:L337 ./automoveis
+  318  grep 'Marca: Honda Cor:Azul Placa:L337' ./automoveis
+  319  grep -a5 L337ZR9 ./automoveis
+  320  grep -a5 L337P89
+  321  grep -a5 L337P89 ./automoveis
+  322  grep -a5 L337WR9 ./automovies
+  323  grep -a5 L337WR9 ./automoveis
+  324  grep -a5 L3375A9 ./automoveis
+  325  grep -a5 L337DV9 ./automoveis
+  326  grep -a L337369 ./automoveis
+  327  grep -a5 L337369 ./automovei
+  328  $ grep -a5 L337369 ./automoveis
+  329  grep -a5 L337369 ./automoveis
+  330  grep -a5 L3373U9 ./automoveis
+  331  grep -a6 L337539 ./automoveis
+  332  grep -a4 L337X19 ./automoveis
+  333  grep -a5 L337GX9 ./automoveis
+  334  grep -a5 L337QE9 .automoveis
+  335  grep -a5 L337QE9 ./automoveis
+  336  grep -a5 L337GB9 ./automoveis
+  337  grep -a5 L337OI9 ./automoveis
+  338  grep L337 ./automoveis
+  339  grep -a5 Rosie Fredricson ./automoveis
+  340  grep "Carro: Honda" > "Cor: Azul"> "Altura: 1,83 m" ./automoveis
+  341  grep "Carro: Honda" > "Cor: Azul" -a5 ./automoveis
+  342   grep -a5 "Carro: Honda" > "Cor: Azul" ./automoveis
+  343  grep -a5 "Carro: Honda"> "Cor: Azul" ./automoveis
+  344  grep -a5 "Carro: Honda">
+  345  grep Marca: Volvo
+  346  ./automoveis-Cor: Branca
+  347  grep -c5 "Carro: Azul"
+  348  grep -c5
+  349  "Marca: Honda"
+  350  "Carro: Azul"
+  351  "Altura: 1,83 m" ./automoveis
+  352  grep --help
+  353  grep  -A5 Placa L337 ./automoveis
+  354  grep  -a5 "Placa L337" ./automoveis
+  355  cd ./associacoes
+  356  cat AAA
+  357  grepe Jeremy Bowers ./AAA
+  358  grep Jeremy Bowers ./AAA
+  359  cat Delta_SkyMiles
+  360  grep "Jacqui Maher" ./AAA
+  361  ggrep Jeremy Bowers ./AAA
+  362  grep "Jeremy Bowers" ./AAA
+  363  gerp "Joe Germuska" ./AAA
+  364  grep "Joe Germuska" ,.
+  365  grep "Joe Germuska" ./aaa
+  366  grep "Jeremy Bowers" ./Delta_SkyMiles
+  367  grep "Jacqui Maher" ./Delta_SkyMiles
+  368  grep "Joe Germuska" ./Delta_SkyMiles
+  369  grep "Joe Germuska" ./Delta_SkyMiles
+  370  cat Biblioteca_da_Cidade
+  371  grep "Jeremy Bowers" ./Biblioteca_da_Cidade
+  372  grep "Jeremy Bowers" ./Biblioteca_da_Cidade
+  373  grep "Jacqui Maher" ./Biblioteca_da_Cidade
+  374  cat Museu_da_História_do_Bash
+  375  grep "Jacqui Maher" ./Museu_da_História_do_Bash
+  376  grep "Jeremy Bowers" ./Museu_da_História_do_Bash
+  377  history > comandos-usados.txt
+  378  history
+  379  history > arquivo.txt
+  380  history
+  381  grep -a5 "Jeremy Bowers" ./pessoas
+  382  cd ..
+  383  grep -a5 "Jeremy Bowers" ./pessoas
+  384  grep "Travessa Dunstable" ./rua
+  385  grep "Travessa Dunstable" ./ruas
+  386  cd ./ruas
+  387  cat "Travessa Dunstable"
+  388  cat Travessa_Dunstable
+  389  grep -n284
+  390  grep -n284 ./Travessa_Dunstable
+  391  head -n284 ./Travessa_Dunstable
+  392  cd ..
+  393  ls
+  394  cd entrevistas
+  395  cat entrevista-9620713
+  396  grep "Jacqui Maher" ./pessoas
+  397  cd ..
+  398  ls
+  399  grep "Jacqui Maher" ./pessoas
+  400  cs ..
+  401  cd ..
+  402  cd ..
+  403  history
+  404  history>arquivo.txt
+
+
+
+CRIMINISO: Jeremy Bowers(?)
