@@ -1,0 +1,28 @@
+h1{
+    color: green;
+
+}
+
+.nao-mostrar{
+    display: none;
+}
+
+.primeiro-paragrafo{
+    color: orange;
+    background-color: yellow;
+    margin-top: 4px;
+}
+
+.segundo-paragrafo{
+    color:white;
+    background-color:blue;    
+}
+
+p{
+    padding: 4px;
+    display: inline;
+}
+
+button{
+    
+}

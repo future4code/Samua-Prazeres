@@ -5,22 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Adicionar Produto</title>
+    <link rel="stylesheet" type="text/css" href="loja.css">
+    <style>
+        body, ht {
+          background-image: url("./imagem-site/Imagem2.png");
+          background-size:auto;
+        }
+    </style>
 </head>
-<body>
-    <div>
-        <p>bandmate</p>
-    </div>
-    
-    <div>
-        <a href="./index.html">Página Inicial</a>
-        <a href="./ctrl-estoque.html">Controle de Estoque</a>
-        <a href="./add-produto.html">Adicionar Produto</a>
-        <a href="./funcionarios.html">Funcionários</a>
-    </div>
 
+<body>
+    <div class="header-interno">
+        <p>BANDMATE</p>
+    </div>
     
-    <h2>Adicionar Produto</h2>
+    <div class="texto-centralizado">
+
+        <h2>Adicionar Produto</h2>
+
     <form action="#">
+
         <div>
             <label for="link-foto">Link para foto: </label>
             <input type="url" id="link-foto" name="link-foto">
@@ -35,7 +39,7 @@
         <div>
             <label for="preco">Preço (em R$): </label>
             <!-- Adicione o id apropriado e o type para receber números abaixo -->
-            <input type="number" id="preco" name="preço">
+            <input type="text" id="preco" name="preço">
         </div>
         
         <div>
@@ -44,12 +48,38 @@
             <input type="number" id="quantity" name="quantidade">
         </div>
 
-        <div class="form-add">
+        <br>
+        <br>
+
+        <div>
             <!-- Adicione ao type do botão abaixo o valor para que ele submeta o formulário -->
-            <button type="submit">Adicionar</button>
+            <button class="button-add">ADICIONAR</button>    
         </div>
 
     </form>
+
+    </div>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="links-internos">
+        <a href="./index.html">Página Inicial</a>
+        <a href="./ctrl-estoque.html">Controle de Estoque</a>
+        <a href="./funcionarios.html">Funcionários</a>
+    </div>
+    
+    <footer> 
+        <div class="footer">
+            <p>Siga-nos nas redes sociais!</p>
+            <img src="https://image.flaticon.com/icons/png/512/25/25305.png" width="3%" height="3%"/>
+            <img src="https://image.flaticon.com/icons/png/512/25/25425.png" width="3%" height="3%"/>
+            <img src="https://image.flaticon.com/icons/png/512/8/8800.png"  width="3%" height="3%"/>
+        </div>
+    </footer>
 
 </body>
 </html>
