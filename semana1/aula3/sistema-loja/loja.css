@@ -1,0 +1,106 @@
+/*configs gerais para todas as paginas do site*/
+
+div.header{
+    position: fixed;
+    top: 0%;
+    width: 100%; 
+    text-align: center;
+    color: white;
+    background-color: #3236399a;
+    padding: 2px;   
+}
+
+a{
+    color:white;
+    background-color:black;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+    background-color: white;
+}
+
+div.links-internos{
+    text-align: center;
+}
+
+div.footer{
+    position: fixed;
+    bottom:0%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: #323639;    
+}
+
+/*configs pagina inicial*/
+
+#nome-site{
+    font-size: 650%;
+    font-family:BlackCasper;
+    src: url(BlackCasper.ttf);
+    text-align: center;
+    padding-top: 4%;
+    color: white
+}
+
+div.texto-centralizado{
+    text-align: center;
+    color: white;
+}
+
+/*configs pagina add-produto*/
+
+.header-interno{
+    text-align: center;
+    color: white;
+    background-color: #3236399a;
+    padding: 1px;
+    font-family:BlackCasper;
+    src: url(BlackCasper.ttf);
+    font-size:x-large;
+
+}
+
+.button-add{
+    color:white;
+    background-color:black;
+    padding: 10px 10px;
+    text-decoration: none;
+    border: none;
+}
+button{
+    color:white;
+    background-color:black;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+button:hover{
+    color:black;
+    background-color: white;
+}
+
+div.trabalhadoUra{
+    color: white;
+    text-align: center;
+}
+
+/* tabelaaa */
+
+table, th, td {
+    border: 1px solid white;
+    text-align: center; 
+    margin: auto;
+  }
+
+/* form do historico */
+
+div.formulario {
+    background-color: #3236399a;
+    width: 50%;
+    margin: auto;
+    width:30%;
+    padding:2%;
+  }
+

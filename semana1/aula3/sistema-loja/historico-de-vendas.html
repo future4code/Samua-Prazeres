@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Controle de Estoque</title>
+    <link rel="stylesheet" type="text/css" href="loja.css">
+    <style>
+        body{
+          background-image: url("./imagem-site/Imagem2.png");
+          background-size:auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="header-interno">
+        <p>BANDMATE</p>
+    </div>
+
+    <div class="texto-centralizado">
+    <h2>Historico de Vendas</h2>
+    
+    <div class="formulario">
+
+        <form action="./historico-de-vendas.html">
+        <label for="date">Data de Compra:</label>
+        <input type="date" name="date" id="date">
+
+        <br>
+
+        <label for="produtos">Produtos:</label>
+        <input type="text" name="produtos" id="text" placeholder="nome do produto...">
+
+        <br>
+
+        <label for="pagamento">Metodo de Pagamento:</label>
+        <select id="pagamento" name="pagamento">
+            <option value="blanc"></option>
+            <option value="debito">débito</option>
+            <option value="credito">crédito</option>
+        </select>
+
+        <br>
+        <br>
+
+        <button class="button-add">ADICIONAR</button>    
+
+        </form>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="links-internos">
+        <a href="./index.html">Página Inicial</a>
+        <a href="./ctrl-estoque.html">Controle de Estoque</a>
+        <a href="./add-produto.html">Adicionar Produto</a>
+        <a href="./funcionarios.html">Funcionários</a>
+        <a href="./pagina-de-vendas.html">Vendas</a>
+    </div>
+    
+    <footer>
+        <div class="footer">
+        <p>Siga-nos nas redes sociais!</p>
+        <img src="https://image.flaticon.com/icons/png/512/25/25305.png" width="3%" height="3%"/>
+        <img src="https://image.flaticon.com/icons/png/512/25/25425.png" width="3%" height="3%"/>
+        <img src="https://image.flaticon.com/icons/png/512/8/8800.png"  width="3%" height="3%"/>
+    </div>
+    </footer>
+
+</body>
+</html>
