@@ -1,0 +1,183 @@
+/* TUDO ISSO PRAQUELA MISéRA DA PAGINA INICIAL */
+.dropbtn{
+    background-color:rgba(255, 255, 255, 0.158);
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    border: 10px solid #f5f5f5;
+    width: 550px;
+    padding: 30px;
+    transform: translate(65%, 65%);    
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: rgb(219, 216, 216);
+    padding: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    min-width: 50%;
+    transform: translate(250%, 55%);    
+}
+
+.dropdown-content a{
+    color: #333535bd;
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.dropdown-content a:hover{
+    background-color: #2a2c2c;
+    color: whitesmoke;
+}
+
+.dropdown:hover 
+.dropdown-content{
+    display: block;
+}
+
+.dropdown:hover 
+.dropbtn{
+    background-color: #111111;
+}
+
+/* TODA ESSA MISéRA PRO MENU DAS PAGINAS INTERNAS */
+
+.dropbtn-inside{
+    background-color:rgba(255, 255, 255, 0);
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    border: 8px solid whitesmoke;
+    width: 100px;
+    padding: 15px;
+    transform: translate(20%, 20%);    
+}
+
+.dropdown-inside{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content-inside{
+    display: none;
+    position: absolute;
+    background-color: rgb(219, 216, 216);
+    padding: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    min-width: 50%;
+    transform: translate(50%, 0%);    
+}
+
+.dropdown-content-inside a{
+    color: #2a2c2c;
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.dropdown-content-inside a:hover{
+    background-color: #2a2c2c;
+    color: whitesmoke;
+}
+
+.dropdown-inside:hover 
+.dropdown-content-inside{
+    display: block;
+}
+
+.dropdown-inside:hover 
+.dropbtn-inside{
+    background-color: #111111;
+}
+
+p{
+    text-align: center;
+    color:whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* FORMULARIO DE CONTATO */
+
+form{
+    padding: 35px;
+    background-color: #323639;
+    width: fit-content;
+    border: whitesmoke;
+    transform: translate(125%, -5%);    
+}
+
+input{
+    display: block;
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+textarea{
+    height: 150px;
+    width: 300px;
+}
+
+.enviar{
+    transform: translate(240%, 10%);    
+    background-color:rgba(255, 255, 255, 0);
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    border: 8px solid whitesmoke;
+    width: 90px;
+    padding: 15px;
+}
+
+/* PESSOAL */
+.texto-pessoal{
+    padding-top: 5%;
+}
+
+/* CONFIGS DE TEXTO E CORES PRA GERAL */
+
+body {
+    background-color:#2a2c2c;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+dl{
+    padding-left: 65%;
+    padding-top: 2%;
+}
+
+/* PORTFOLIO */
+
+.img-port{
+    width: 30%;
+    height: 30%;
+    border:5px solid whitesmoke;
+}
+
+.port{
+    text-align: center;
+}
+
+/* SO NO SAPATiN */
+
+footer{
+    position: fixed;
+    bottom:0%;
+    text-align: center;
+    color: white;
+    background-color: #323639;
+    padding: 5px;  
+}
+
